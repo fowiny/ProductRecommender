@@ -1,0 +1,1 @@
+cd C:/Users/festo.owiny/Desktop/recommend && activate gl-env && python recommender_AAP.py && deactivate && cd /Users/festo.owiny/Desktop

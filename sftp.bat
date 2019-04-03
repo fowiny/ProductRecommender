@@ -1,0 +1,1 @@
+cd C:/Users/festo.owiny/Desktop/recommend && python sftpRun.py
