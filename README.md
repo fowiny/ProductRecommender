@@ -9,3 +9,4 @@ Product Recommendation System done during Internship
 6. sftp.py -> Python script to securely transfer outputresult using sftp to the webserver
 7. dataset -> SQL query returned by the python scripts coressponding to the two portals conditional difference is returned in this folder
 8. ouput -> Results output in this folder as .csv and .json for both Portals
+9. report.pdf -> Report of the project
