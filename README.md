@@ -1,4 +1,4 @@
-# ProductRecommender
+# Product Recommendation System
 Product Recommendation System done during Internship
 
 1. run.bat -> Run this file to execute the recommendation system
