@@ -1,8 +1,8 @@
 import pysftp
 
-sftpConnect = pysftp.Connection(host="xxx", username="xxx", private_key="zzz", password=None, port=22, private_key_pass="fff", ciphers=None, log=False)
+sftpConnect = pysftp.Connection(host="xxx", username="xxx", private_key="zzz", password=None, port=nn, private_key_pass="fff", ciphers=None, log=False)
 
-data = sftpConnect.listdir('/home/converse/recommendationJson/')
+data = sftpConnect.listdir('/xx/')
 
 print ('Does path /xx/ exisit ? :', sftpConnect.lexists('/xx/')) #Tests if path exisits
 print ('Does file personalizedRecommend_RP.json exist ? :', sftpConnect.lexists('/xx/personalizedRecommend_RP.json')) #Tests if file exists
